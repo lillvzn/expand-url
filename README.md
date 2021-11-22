@@ -21,7 +21,7 @@ In addition to converting the shortened URLs to their original form, we can aslo
 
 ### DEMO
 
-![Alt Text](https://s8.gifyu.com/images/expandUrl.gif)
+![URL expansion demo](https://s8.gifyu.com/images/expandUrl.gif)
 
 ### Dependencies
 
